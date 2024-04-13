@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é o meu mais recente trabalho, uma calculadora de IMC.
 
-- [Acesse o projeto finalizado, online](https://calculadora-de-5o5bp4pbc-lorran-franklins-projects.vercel.app/)
+- [Acesse o projeto finalizado, online](https://calculadora-de-kr49i85kv-lorran-franklins-projects.vercel.app/)
