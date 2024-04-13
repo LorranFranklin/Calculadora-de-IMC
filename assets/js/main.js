@@ -14,7 +14,7 @@ form.addEventListener('submit', (event) => {
 
     document.getElementById('infos').classList.remove('hidden');
     if (imc < 18.5) {
-        description = 'Cuidado! Abaixo do peso.';
+        description = 'Cuidado! Abaixo do peso!';
     } else if (imc <= 25) {
         description = 'Peso normal.';
         value.classList.remove('attention');
