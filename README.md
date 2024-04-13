@@ -3,7 +3,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
-  
 
 <br>
 
@@ -21,6 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este é o meu mais recente trabalho.
+Este é o meu mais recente trabalho, uma calculadora de IMC.
 
 - [Acesse o projeto finalizado, online](https://calculadora-de-5o5bp4pbc-lorran-franklins-projects.vercel.app/)
