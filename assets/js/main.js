@@ -2,7 +2,6 @@ const form = document.getElementById('form');
 
 form.addEventListener('submit', (event) => {
     event.preventDefault();
-
     const weight = document.getElementById('weight').value;
     const height = document.getElementById('height').value;
     
@@ -32,4 +31,5 @@ form.addEventListener('submit', (event) => {
 
     value.textContent = imc.replace('.', ',');
     document.getElementById('description').textContent = description;
+
 })
